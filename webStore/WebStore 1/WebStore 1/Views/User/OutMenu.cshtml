@@ -1,0 +1,46 @@
+﻿
+
+
+
+@using WebStore_1.Models
+
+@model IEnumerable<Category>
+
+
+<a class='dropdown- toggle elementMenu' id="caretMenu" data-toggle='dropdown'>Категории<b class=''></b></a>
+
+@helper BuildMenu(IEnumerable<Category> data, int? parentId = null)
+{
+var items = data.Where(d => d.ParentId == parentId).OrderBy(i => i.Order);
+if (items.Any())
+{
+        <ul class="dropdown-menu">
+            @foreach (var item in items)
+            {
+                <li>
+
+
+                    @{
+                        var link = Ajax.ActionLink("{0}", "LoadAppCategory", "User", new { Id = item.Id }, new AjaxOptions { UpdateTargetId = "applications" }, new { @class = "dropdown-toggle elementMenu", @id = "caretMenu" });
+                        var url = string.Format(link.ToString(), item.Name + "<b class=''></b>");
+                    }
+
+                    @Html.Raw(url)
+
+                    @BuildMenu(data, item.Id)
+                </li>
+                        }
+        </ul>
+                        }
+}
+
+@BuildMenu(Model)
+
+
+
+
+
+
+
+
+

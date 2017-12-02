@@ -1,0 +1,42 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+
+
+@Scripts.Render("~/Scripts/PersonalArea.js")
+
+@Scripts.Render("~/Scripts/LoadApp.js")
+
+
+@Styles.Render("~/Content/PersonalArea.css")
+@Styles.Render("~/Content/AppDesign.css")
+
+@Styles.Render("~/Content/bootstrap-select.css")
+
+@Scripts.Render("~/Scripts/bootstrap-select.js")
+<style type="text/css"></style>
+
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+
+<div id="application">@{Html.RenderAction("LoadApp", "Room");}</div>
+<div align="center" id="tableBlockUpd"></div>
+
+<div id="results"></div>
+
+<h3>Выберите файл с приложением</h3>
+
+<div class="file-upload">
+    <label>
+        <input type="file" id="uploadFile" name="file">
+        <span>Выберите файл</span>
+    </label>
+</div>
+
+<div class="file-upload">
+    <label>
+        <span id="submit">Загрузить</span>
+    </label>
+</div>

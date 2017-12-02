@@ -1,0 +1,76 @@
+﻿@model  System.Collections.Generic.IEnumerable<WebStore_1.Models.Application>
+    
+@if (Model.Count() != 0)
+{
+        foreach (WebStore_1.Models.Application item in Model)
+        {
+        <div id="app" style="margin-bottom:45px">
+            <div class="dv">
+               
+
+                @Html.Raw("<img style='width:150px; height:150px; border-radius: 100%;'  src = '/applications/" + item.PathIcon + "'  />")
+
+                <p>Имя Приложения : @item.Name</p>
+
+                <p><a href="@Url.Action("Index", "Author", new {idName = item.ApplicationUser.UserName})">Автор : @item.Author</a>
+                </p>
+
+                <p>Дата Создания : @item.Date</p>
+                <div class="opisanie">
+                    <p>Описание : @item.Description</p>
+                </div>
+
+            </div>
+
+            <div class="batt">
+                
+                @Ajax.ActionLink(@"Показать Обновления", "LoadUpd", "User", new { id = item.Id }, new AjaxOptions { UpdateTargetId = "updates:" + item.Id }, new { @style = "font-family: 'Lobster', cursive;padding: 10px;border:1px solid #77be00;background: #77be00;border-radius: 20px;color: black;margin-right: 10px;text-decoration: none;" })
+                <a class="dowApp" id='ID:@item.Package' style="font-family: 'Lobster', cursive;padding: 10px;border:1px solid #77be00;background: #77be00;border-radius: 20px;color: black;margin-right: 10px;text-decoration: none;">Скачать Приложение</a>
+            </div>
+            <section id="odin">
+                
+
+                
+            </section>
+
+            <div id='updates:@item.Id'></div>
+
+        </div>
+    }
+}
+else
+{
+    if ((ViewContext.RouteData.Values["controller"].ToString() + @ViewContext.RouteData.Values["action"].ToString()) == "UserLoadAppCategory")
+    {
+        if (ViewBag.Id == null)
+        {
+            <script type="text/javascript">
+                $("#errors").show();
+                $("#errors")
+                    .append(
+                        "<li><strong>Предупреждение!</strong> В магазине нет ни одного приложения<a href='#' class='close' data-dismiss='alert'>×</a> </li>");
+            </script>
+        }
+        else
+        {
+            <script type="text/javascript">
+                $("#errors").show();
+                $("#errors")
+                    .append(
+                        "<li><strong>Предупреждение!</strong> В этой категории нет ни одного приложения<a href='#' class='close' data-dismiss='alert'>×</a> </li>");
+            </script>
+        }
+    }
+   
+    if ((ViewContext.RouteData.Values["controller"] + @ViewContext.RouteData.Values["action"].ToString()) == "AuthorLoadAppAuthor")
+    {
+   
+        <script type="text/javascript">
+        $("#errors").show();
+        $("#errors")
+            .append(
+                "<li><strong>Предупреждение!</strong> У этого автора нет ни одного приложения<a href='#' class='close' data-dismiss='alert'>×</a> </li>");
+        </script>
+        
+    }
+}

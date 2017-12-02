@@ -1,0 +1,84 @@
+﻿
+
+@model  System.Collections.Generic.IEnumerable<WebStore_1.Models.Application>
+
+@if (Model.Count() != 0)
+{
+    <div class="modal fade" id="basicModal" tabindex="-1" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button class="close" type="button" data-dismiss="modal">x</button>
+                    <h4 class="modal-title" id="myModalLabel">Загрузка Обновления</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="file-upload">
+                        <label>
+                            <input type="file" id="uploadFileUpd" name="file">
+                            <span>Выберите файл</span>
+                        </label>
+                    </div>
+
+                    <div class="file-upload">
+                        <label>
+                            <span id="submitUpd">Загрузить</span>
+                        </label>
+                    </div>
+                   
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-default" type="button" data-dismiss="modal">Закрыть</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <h2 id="tableBlockH">Список Приложений</h2>
+
+    <div align="center" id="tableBlock">
+        <table class="table table-bordered">
+            <thead><tr><th>Имя приложения</th><th>Имя Разработчика</th><th>Описание</th><th>Дата Создания</th><th>Обновления</th><th>Удалить</th><th>Загрузить Обновление</th><th>Скачать</th></tr></thead>
+            <tbody>
+                @foreach (WebStore_1.Models.Application item in Model)
+                {
+                   
+                    <tr class="trApp" id='ID:@item.Hide'>
+
+
+                        <td>@item.Name</td>
+                        <td>@item.NameUser</td>
+                        <td>@item.Description</td>
+                        <td>@item.Date </td>
+                        <td><button class='showID btn btn-success' id='ID:@item.Id'>Показать</button></td>
+                        <td><button class='delID btn btn-success' id='ID:@item.Id'>Удалить</button></td>
+                        <td >
+                            <a class="loadAppId btn btn-success" id='ID:@item.Id' href="#" data-toggle="modal" data-target="#basicModal">Загрузить</a>
+                               
+                               
+                        </td>
+                        <td><button class="btn btn-success dowApp" id='ID:@item.Package'>Скачать</button></td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+        <script type="text/javascript">
+            
+            $(".trApp").each(function (index) {
+                debugger;
+                var verification = $(this).attr('id').split(':')[1];
+                if (verification) { $(this).css("background-color", "red");}
+            })
+            
+
+            document.getElementById('uploadFileUpd').onchange = function () {
+                debugger;
+                $("#submitUpd").text("Загрузить(" + this.value.split('\\')[this.value.split('\\').length - 1] + ")");
+            };
+        </script>
+    </div>
+}
+else
+{
+    <h2 id="tableBlockH">У вас нет не одного приложения</h2>
+}

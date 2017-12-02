@@ -1,0 +1,14 @@
+﻿.navig {background: black;padding: 15px;}
+a#nav {text-decoration: none;color: white;font-family: 'Oswald', sans-serif;}
+p {font-family: 'Oswald', sans-serif;}
+#one {background:#f1f1f1;margin-top: 40px;}
+#two {background:white;margin-top: 40px;}
+.aa {text-align: center;}
+div.left {float:left;width: 48%;display: inline-block;}
+div.right {float:right;width: 48%;display: inline-block;}
+div.separator {width: 5px;height: 100px;background: #000000 1px;display: inline-block;}
+.dv {text-align: center;}
+.opisanie {margin-left: 20%;margin-right: 20%; text-align: center;}
+a {color: black; font-family: 'Oswald', sans-serif;}
+.batt {text-align: center;margin-top: 20px;}
+.autor {text-align: center;margin-left: 20%;margin-right: 20%;margin-top: 20px;}

@@ -1,0 +1,32 @@
+c:\users\dima pc\documents\visual studio 2017\Projects\ConsoleWebClient\ConsoleWebClient\bin\Debug\ConsoleWebClient.exe.config
+c:\users\dima pc\documents\visual studio 2017\Projects\ConsoleWebClient\ConsoleWebClient\bin\Debug\ConsoleWebClient.exe
+c:\users\dima pc\documents\visual studio 2017\Projects\ConsoleWebClient\ConsoleWebClient\bin\Debug\ConsoleWebClient.pdb
+c:\users\dima pc\documents\visual studio 2017\Projects\ConsoleWebClient\ConsoleWebClient\obj\Debug\ConsoleWebClient.csprojResolveAssemblyReference.cache
+c:\users\dima pc\documents\visual studio 2017\Projects\ConsoleWebClient\ConsoleWebClient\obj\Debug\ConsoleWebClient.exe
+c:\users\dima pc\documents\visual studio 2017\Projects\ConsoleWebClient\ConsoleWebClient\obj\Debug\ConsoleWebClient.pdb
+c:\users\dima pc\documents\visual studio 2017\Projects\ConsoleWebClient\ConsoleWebClient\bin\Debug\Newtonsoft.Json.dll
+c:\users\dima pc\documents\visual studio 2017\Projects\ConsoleWebClient\ConsoleWebClient\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\dima pc\documents\visual studio 2017\Projects\ConsoleWebClient\ConsoleWebClient\bin\Debug\Newtonsoft.Json.xml
+c:\users\dima pc\documents\visual studio 2017\Projects\ConsoleWebClient\ConsoleWebClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Dima PC\Desktop\ConsoleWebClient\ConsoleWebClient\obj\Debug\ConsoleWebClient.csprojResolveAssemblyReference.cache
+C:\Users\Dima PC\Desktop\ConsoleWebClient\ConsoleWebClient\obj\Debug\ConsoleWebClient.csproj.CoreCompileInputs.cache
+C:\Users\Dima PC\Desktop\ConsoleWebClient\ConsoleWebClient\obj\Debug\ConsoleWebClient.exe
+C:\Users\Dima PC\Desktop\ConsoleWebClient\ConsoleWebClient\obj\Debug\ConsoleWebClient.pdb
+C:\Users\Dima PC\Desktop\ConsoleWebClient\ConsoleWebClient\bin\Debug\ConsoleWebClient.exe.config
+C:\Users\Dima PC\Desktop\ConsoleWebClient\ConsoleWebClient\bin\Debug\ConsoleWebClient.exe
+C:\Users\Dima PC\Desktop\ConsoleWebClient\ConsoleWebClient\bin\Debug\ConsoleWebClient.pdb
+C:\Users\Dima PC\Desktop\ConsoleWebClient\ConsoleWebClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dima PC\Desktop\ConsoleWebClient\ConsoleWebClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Dima PC\Desktop\ConsoleWebClient\ConsoleWebClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dima PC\Desktop\ConsoleWebClient\ConsoleWebClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Dima PC\Desktop\webStore\ConsoleWebClient\ConsoleWebClient\bin\Debug\ConsoleWebClient.exe.config
+C:\Users\Dima PC\Desktop\webStore\ConsoleWebClient\ConsoleWebClient\bin\Debug\ConsoleWebClient.exe
+C:\Users\Dima PC\Desktop\webStore\ConsoleWebClient\ConsoleWebClient\bin\Debug\ConsoleWebClient.pdb
+C:\Users\Dima PC\Desktop\webStore\ConsoleWebClient\ConsoleWebClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dima PC\Desktop\webStore\ConsoleWebClient\ConsoleWebClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Dima PC\Desktop\webStore\ConsoleWebClient\ConsoleWebClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dima PC\Desktop\webStore\ConsoleWebClient\ConsoleWebClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Dima PC\Desktop\webStore\ConsoleWebClient\ConsoleWebClient\obj\Debug\ConsoleWebClient.csprojResolveAssemblyReference.cache
+C:\Users\Dima PC\Desktop\webStore\ConsoleWebClient\ConsoleWebClient\obj\Debug\ConsoleWebClient.csproj.CoreCompileInputs.cache
+C:\Users\Dima PC\Desktop\webStore\ConsoleWebClient\ConsoleWebClient\obj\Debug\ConsoleWebClient.exe
+C:\Users\Dima PC\Desktop\webStore\ConsoleWebClient\ConsoleWebClient\obj\Debug\ConsoleWebClient.pdb

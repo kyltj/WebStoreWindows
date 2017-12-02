@@ -1,0 +1,27 @@
+﻿
+
+@helper BuildMenu(IEnumerable<WebStore_1.Models.Category> data, int? parentId = null)
+{
+
+var items = data.Where(d => d.ParentId == parentId).OrderBy(i => i.Order);
+if (items.Any())
+{
+
+    foreach (var item in items)
+    {
+        string Level = new String('-', item.Level - 1); ;
+            <option id="ID:@item.Id" value="@item.Id">@Level@item.Name</option>
+
+            @BuildMenu(data, item.Id)
+    }
+
+}
+}
+
+
+<select class="selectpicker" multiple data-live-search="true" id="categories">
+    @BuildMenu(Model)
+</select>
+
+
+

@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Catalog";
+}
+
+
+
+@Scripts.Render("~/Scripts/PersonalArea.js")
+
+@Scripts.Render("~/Scripts/LoadApp.js")
+
+
+@Styles.Render("~/Content/PersonalArea.css")
+@Styles.Render("~/Content/AppDesign.css")
+
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+
+
+
+<div id="applications">
+    @{Html.RenderAction("LoadAppCategory", "User");}
+</div>
+
+

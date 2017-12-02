@@ -1,0 +1,118 @@
+﻿
+
+@model  System.Collections.Generic.IEnumerable<WebStore_1.Models.Application>
+
+
+
+@if (Model.Count() != 0)
+{
+
+    <div class="modal fade" id="basicModal" tabindex="-1" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button class="close" type="button" data-dismiss="modal">x</button>
+                    <h4 class="modal-title" id="myModalLabel">Загрузка Обновления</h4>
+                </div>
+               
+                <div class="modal-body">
+                    <ul id="successUpd" hidden style="color:green;"></ul>
+                    <ul id="errorsUpd" hidden style="color:red;"></ul>
+                    <div class="file-upload">
+                        <label>
+                            <input type="file" id="uploadFileUpd" name="file">
+                            <span>Выберите файл</span>
+                        </label>
+                    </div>
+
+                    <div class="file-upload">
+                        <label>
+                            <span id="submitUpd">Загрузить</span>
+                        </label>
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-default" type="button" data-dismiss="modal">Закрыть</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="basicModalCategory" tabindex="-1" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button class="close" type="button" data-dismiss="modal">x</button>
+                    <h4 class="modal-title" id="myModalLabel">Добавление в категории приложение</h4>
+                </div>
+                <ul id="successCat" hidden style="color:green;"></ul>
+                <ul id="errorsCat" hidden style="color:red;"></ul>
+                <div class="modal-body">
+                    <div id="category">@{Html.RenderAction("outCategories", "Room");}</div>
+                    <button class="btn btn-success setCategory">Назначить</button>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-default" type="button" data-dismiss="modal">Закрыть</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+                        foreach (WebStore_1.Models.Application item in Model)
+                        {
+                            <div id="app" style="margin-bottom:45px">
+                                <div class="dv">
+
+                                    @Html.Raw("<img style='width:150px; height:150px; border-radius: 100%;' src = '/applications/" + item.PathIcon + "' />")
+
+                                    <p>Имя Приложения : @item.Name</p>
+
+                                    <p>Дата Создания : @item.Date</p>
+                                    <div class="opisanie">
+                                        <p>Описание : @item.Description</p>
+                                    </div>
+                                    @if (item.Hide == false)
+                                    {
+                                        <p style='color:green;'>Подтверждено</p>
+                                    }
+                                    else
+                                    {
+                                        <p style='color:red;'>Не Подтверждено</p>
+                                    }
+                                </div>
+                                @if (!item.Hide)
+                                {
+                                    <div class="batt">
+                                       
+                                        @Ajax.ActionLink("Показать Обновления", "LoadUpd", "Room", new { Id = item.Id }, new AjaxOptions { UpdateTargetId = "updates:" + item.Id }, new { @style = "font-family: 'Lobster', cursive;padding: 10px;border:1px solid #77be00;background: #77be00;border-radius: 20px;color: black;margin-right: 10px;text-decoration: none;" })
+                                        <a class='delID' href="#" id='ID:@item.Id' style="font-family: 'Lobster', cursive;padding: 10px;border:1px solid #77be00;background: #77be00;border-radius: 20px;color: black;margin-right: 10px;text-decoration: none;">Удалить</a>
+                                        <a class="loadAppId" id='ID:@item.Id' href="#" data-toggle="modal" data-target="#basicModal" style="font-family: 'Lobster', cursive;padding: 10px;border:1px solid #77be00;background: #77be00;border-radius: 20px;color: black;margin-right: 10px;text-decoration: none;">Загрузить Обновление</a>
+
+
+                                        <a class="dowApp" href="#" id='ID:@item.Package' style="font-family: 'Lobster', cursive;padding: 10px;border:1px solid #77be00;background: #77be00;border-radius: 20px;color: black;margin-right: 10px;text-decoration: none;">Скачать Приложение</a>
+
+                                        <a id='ID:@item.Id' class="btn btn-success setAppCategory" href="#" data-toggle="modal" data-target="#basicModalCategory" style="font-family: 'Lobster', cursive;padding: 10px;border:1px solid #77be00;background: #77be00;border-radius: 20px;color: black;margin-right: 10px;text-decoration: none;">Назначить Категорию</a>
+                                    </div>
+                                }
+                                <section id="odin">
+                                    <div>
+
+                                    </div>
+                                </section>
+                                <div id='updates:@item.Id'></div>
+
+                            </div>
+                            }
+                        }
+
+
+
+                        else
+                        {
+                                    <h2 id = "tableBlockH" > У вас нет не одного приложения </h2>
+                        }
+
+

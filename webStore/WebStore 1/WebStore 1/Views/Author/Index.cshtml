@@ -1,0 +1,40 @@
+﻿	
+
+@{
+    ViewBag.Title = "Админка";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Styles.Render("~/Content/author.min.css")
+
+@Styles.Render("~/Content/PersonalArea.css")
+@Styles.Render("~/Content/AppDesign.css")
+
+
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+
+@model WebStore_1.Models.ApplicationUser
+
+
+
+            <div id="breadcrumb">
+                <div id="crumbs">
+                    <div class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb">
+                       
+                        <span class="trail-end">@Model.UserName</span>
+                    </div>
+                </div>
+            </div>
+
+    
+
+
+            <!-- right block -->
+           
+            <div class="clr"></div>
+
+
+<div id="applications">
+    @{Html.RenderAction("LoadAppAuthor", "Author");}
+</div>

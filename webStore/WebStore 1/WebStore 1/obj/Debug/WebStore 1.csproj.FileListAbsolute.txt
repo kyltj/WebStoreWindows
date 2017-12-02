@@ -1,0 +1,362 @@
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\ApplicationInsights.config
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\csc.exe
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\csc.exe.config
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\csc.rsp
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\csi.exe
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\csi.rsp
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\System.AppContext.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\vbc.exe
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\vbc.exe.config
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\vbc.rsp
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\WebStore 1.dll.config
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\WebStore 1.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\WebStore 1.pdb
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Antlr3.Runtime.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\EntityFramework.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\EntityFramework.SqlServer.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.AI.Web.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.Cors.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Newtonsoft.Json.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Owin.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Net.Http.Formatting.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.Cors.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.Helpers.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.Http.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.Http.Owin.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.Http.WebHost.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.Mvc.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.Optimization.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.Razor.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.WebPages.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\WebGrease.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.Cors.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Newtonsoft.Json.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.Http.Owin.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.Helpers.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.Mvc.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.Optimization.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.Razor.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.WebPages.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Antlr3.Runtime.pdb
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Net.Http.Formatting.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.Http.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\System.Web.Http.WebHost.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\EntityFramework.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\EntityFramework.SqlServer.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\bin\Microsoft.AI.Web.xml
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\obj\Debug\WebStore 1.dll
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\obj\Debug\WebStore 1.pdb
+C:\Users\Dima PC\documents\visual studio 2017\Projects\WebStore 1\WebStore 1\obj\Debug\WebStore 1.csprojResolveAssemblyReference.cache
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\ApplicationInsights.config
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\csc.exe
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\csc.exe.config
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\csc.rsp
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\csi.exe
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\csi.rsp
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\System.AppContext.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\vbc.exe
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\vbc.exe.config
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\vbc.rsp
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\WebStore 1.dll.config
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\WebStore 1.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\WebStore 1.pdb
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Antlr3.Runtime.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\EntityFramework.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\EntityFramework.SqlServer.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.Web.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Cors.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Newtonsoft.Json.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Owin.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Net.Http.Formatting.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.Cors.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.Helpers.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.Http.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.Http.Owin.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.Http.WebHost.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.Mvc.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.Optimization.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.Razor.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.WebPages.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\WebGrease.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Cors.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Newtonsoft.Json.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.Http.Owin.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.Helpers.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.Mvc.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.Optimization.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.Razor.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.WebPages.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Antlr3.Runtime.pdb
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Net.Http.Formatting.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.Http.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\System.Web.Http.WebHost.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\EntityFramework.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\EntityFramework.SqlServer.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.Web.xml
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore 1.csprojResolveAssemblyReference.cache
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore 1.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore 1.pdb
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore 1.csproj.CoreCompileInputs.cache
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\MetroFramework.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\bin\MetroFramework.Fonts.dll
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore_1.Migrations.InitialCreate.resources
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore 1.csproj.GenerateResource.Cache
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore_1.Migrations.getCatNameForApplication.resources
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore_1.Migrations.requeiredParentID.resources
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore_1.Migrations.sdlvbdsnl.resources
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore_1.Migrations.deletingafieldImagefromdatabase.resources
+C:\Users\Dima PC\Desktop\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore_1.Migrations.tebrtrb.resources
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\ApplicationInsights.config
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\csc.exe
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\csc.exe.config
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\csc.rsp
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\csi.exe
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\csi.rsp
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\System.AppContext.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\vbc.exe
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\vbc.exe.config
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\vbc.rsp
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\WebStore 1.dll.config
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\WebStore 1.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\WebStore 1.pdb
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Antlr3.Runtime.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\EntityFramework.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\EntityFramework.SqlServer.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\MetroFramework.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\MetroFramework.Fonts.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.Web.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Cors.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Newtonsoft.Json.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Owin.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Net.Http.Formatting.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.Cors.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.Helpers.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.Http.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.Http.Owin.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.Http.WebHost.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.Mvc.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.Optimization.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.Razor.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.WebPages.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\WebGrease.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Cors.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Newtonsoft.Json.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.Http.Owin.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.Helpers.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.Mvc.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.Optimization.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.Razor.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.WebPages.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Antlr3.Runtime.pdb
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Net.Http.Formatting.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.Http.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\System.Web.Http.WebHost.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\EntityFramework.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\EntityFramework.SqlServer.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\bin\Microsoft.AI.Web.xml
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore 1.csprojResolveAssemblyReference.cache
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore_1.Migrations.InitialCreate.resources
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore_1.Migrations.getCatNameForApplication.resources
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore_1.Migrations.requeiredParentID.resources
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore_1.Migrations.sdlvbdsnl.resources
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore_1.Migrations.deletingafieldImagefromdatabase.resources
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore_1.Migrations.tebrtrb.resources
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore 1.csproj.GenerateResource.Cache
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore 1.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore 1.dll
+C:\Users\Дима\Desktop\Новая папка (11)\webStore\WebStore 1\WebStore 1\obj\Debug\WebStore 1.pdb
